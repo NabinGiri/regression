@@ -13,6 +13,6 @@ Approach Used:
 
 Files:
 
-logistic.R = contains the R code of the model
-data.csv = the dataset of the auto insurance company
-logistic.csv = the output saved in csv file of validation sample
+1. logistic.R = contains the R code of the model
+2. data.csv = the dataset of the auto insurance company
+3. logistic.csv = the output saved in csv file of validation sample
