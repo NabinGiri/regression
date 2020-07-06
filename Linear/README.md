@@ -13,6 +13,6 @@ Approach Used:
 
 Files:
 1. linear.R = contains the R code of the model
-data.csv = the dataset 
-linear_output.csv = the output saved in csv file wih prediction column
-linear_regression.docx = the detail explaination of the solution
+2. data.csv = the dataset 
+3. linear_output.csv = the output saved in csv file wih prediction column
+4. linear_regression.docx = the detail explaination of the solution
