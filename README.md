@@ -1,5 +1,5 @@
 # regression
-Linear and Logistic Regression and implementations
+Linear and Logistic Regressions and their implementations
 
 1. The folder Linear regression contains R code for solving linear regression problem with Assumption Diagnostic Tests. 
 2. The folder Logistic regression contains R code for solving logistic regression problem with ROC curve, Gini index, confusion matrix.
