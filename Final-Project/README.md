@@ -20,7 +20,7 @@ Approach Used:
 9) Created a business report with final recommendations / insights.
 
 Files:
-Code.R = contains the R code of the model
-data.csv = the dataset of the auto insurance company
-validation.csv = the output saved in csv file of validation sample
-project.docx = the detail explaination of the solution
+1) Code.R = contains the R code of the model
+2) data.csv = the dataset of the auto insurance company
+3) validation.csv = the output saved in csv file of validation sample
+4) project.docx = the detail explaination of the solution
